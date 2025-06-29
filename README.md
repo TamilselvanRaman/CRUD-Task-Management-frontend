@@ -26,33 +26,6 @@ This is a **Task Management** frontend project built using **React.js** and styl
 
 ---
 
-## 📁 Folder Structure
-
-crud-task-frontend/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── TaskForm.jsx
-│ │ ├── TaskList.jsx
-│ │ └── TaskItem.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ ├── App.jsx
-│ ├── index.js
-│ └── styles.css
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-
-yaml
-Copy
-Edit
-
----
-
-## 🔧 How to Run Locally
-
 ### 1. Clone the repository
 
 ```bash
